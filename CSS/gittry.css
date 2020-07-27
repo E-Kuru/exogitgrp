@@ -1,0 +1,19 @@
+h1{
+    color: red;
+}
+
+h2{
+    color: blue;
+}
+
+.useless{
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.useless p{
+    width: 80%;
+}
